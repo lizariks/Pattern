@@ -1,0 +1,15 @@
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/bin/Debug/net7.0/BooksPatterns
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/bin/Debug/net7.0/BooksPatterns.deps.json
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/bin/Debug/net7.0/BooksPatterns.runtimeconfig.json
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/bin/Debug/net7.0/BooksPatterns.dll
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/bin/Debug/net7.0/BooksPatterns.pdb
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.csproj.AssemblyReference.cache
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.AssemblyInfo.cs
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.dll
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/refint/BooksPatterns.dll
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.pdb
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/BooksPatterns.genruntimeconfig.cache
+/Users/admin/RiderProjects/BooksPatterns/BooksPatterns/obj/Debug/net7.0/ref/BooksPatterns.dll
